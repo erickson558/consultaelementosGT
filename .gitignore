@@ -1,0 +1,23 @@
+build/PHPExcel.phar
+unitTests/codeCoverage
+analysis
+
+## IDE support
+*.buildpath
+*.project
+/.settings
+/.idea
+# --- GitHelper default ---
+config.json
+log.txt
+config_autogit.json
+log_autogit.txt
+*.exe
+*.pyc
+__pycache__/
+.venv/
+venv/
+node_modules/
+.DS_Store
+Thumbs.db
+autogit.exe
