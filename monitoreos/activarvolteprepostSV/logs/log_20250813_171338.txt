@@ -1,0 +1,105 @@
+[2025-08-13 17:13:38.197] Inicio del envío
+País: Nicaragua
+Endpoint: http://172.20.11.105:8080/CAI3G1.2/services/CAI3G1.2/async
+Usuario: EmaCmdSV
+Tipo de Servicio: Prepago
+Delay: 1000 ms
+
+[2025-08-13 17:13:38.199] [0] XML generado:
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Header>
+    <ns3:Context xmlns:ns2="http://www.w3.org/2005/08/addressing" xmlns:ns3="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns4="http://schemas.ericsson.com/async/">20250813171338683</ns3:Context>
+    <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+      <wsse:UsernameToken>
+        <wsse:Username>EmaCmdSV</wsse:Username>
+        <wsse:Password>EmaCmdSV@1</wsse:Password>
+      </wsse:UsernameToken>
+    </wsse:Security>
+  </S:Header>
+  <S:Body>
+    <ns3:Set xmlns:ns2="http://www.w3.org/2005/08/addressing" xmlns:ns3="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns4="http://schemas.ericsson.com/async/">
+      <ns3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/</ns3:MOType>
+      <ns3:MOId>
+        <amx:OrderId xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">20250813171338-689d1c2230839</amx:OrderId>
+        <amx:msisdn xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">50370091356</amx:msisdn>
+        <amx:imsi xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">706010480564825</amx:imsi>
+      </ns3:MOId>
+      <ns3:MOAttributes>
+        <amx:SetPrepaidMobile xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/" OrderId="20250813171338-689d1c2230839" imsi="706010480564825" msisdn="50370091356">
+          <amx:Usecase>WIFIACTIVATE</amx:Usecase>
+          <amx:msisdn>50370091356</amx:msisdn>
+          <amx:imsi>706010480564825</amx:imsi>
+        </amx:SetPrepaidMobile>
+      </ns3:MOAttributes>
+    </ns3:Set>
+  </S:Body>
+</S:Envelope>
+
+[2025-08-13 17:13:38.700] [0] Envío exitoso - Duración: 0.5s
+
+----------------------------------------
+
+[2025-08-13 17:13:39.701] [1] XML generado:
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Header>
+    <ns3:Context xmlns:ns2="http://www.w3.org/2005/08/addressing" xmlns:ns3="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns4="http://schemas.ericsson.com/async/">20250813171339442</ns3:Context>
+    <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+      <wsse:UsernameToken>
+        <wsse:Username>EmaCmdSV</wsse:Username>
+        <wsse:Password>EmaCmdSV@1</wsse:Password>
+      </wsse:UsernameToken>
+    </wsse:Security>
+  </S:Header>
+  <S:Body>
+    <ns3:Set xmlns:ns2="http://www.w3.org/2005/08/addressing" xmlns:ns3="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns4="http://schemas.ericsson.com/async/">
+      <ns3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/</ns3:MOType>
+      <ns3:MOId>
+        <amx:OrderId xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">20250813171339-689d1c23ab336</amx:OrderId>
+        <amx:msisdn xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">50376201941</amx:msisdn>
+        <amx:imsi xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">706010471955917</amx:imsi>
+      </ns3:MOId>
+      <ns3:MOAttributes>
+        <amx:SetPrepaidMobile xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/" OrderId="20250813171339-689d1c23ab336" imsi="706010471955917" msisdn="50376201941">
+          <amx:Usecase>WIFIACTIVATE</amx:Usecase>
+          <amx:msisdn>50376201941</amx:msisdn>
+          <amx:imsi>706010471955917</amx:imsi>
+        </amx:SetPrepaidMobile>
+      </ns3:MOAttributes>
+    </ns3:Set>
+  </S:Body>
+</S:Envelope>
+
+[2025-08-13 17:13:39.830] [1] Envío exitoso - Duración: 0.13s
+
+----------------------------------------
+
+[2025-08-13 17:13:43.917] [2] XML generado:
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Header>
+    <ns3:Context xmlns:ns2="http://www.w3.org/2005/08/addressing" xmlns:ns3="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns4="http://schemas.ericsson.com/async/">20250813171343121</ns3:Context>
+    <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+      <wsse:UsernameToken>
+        <wsse:Username>EmaCmdSV</wsse:Username>
+        <wsse:Password>EmaCmdSV@1</wsse:Password>
+      </wsse:UsernameToken>
+    </wsse:Security>
+  </S:Header>
+  <S:Body>
+    <ns3:Set xmlns:ns2="http://www.w3.org/2005/08/addressing" xmlns:ns3="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns4="http://schemas.ericsson.com/async/">
+      <ns3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/</ns3:MOType>
+      <ns3:MOId>
+        <amx:OrderId xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">20250813171343-689d1c27dfb59</amx:OrderId>
+        <amx:msisdn xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">50372390790</amx:msisdn>
+        <amx:imsi xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">706010488139612</amx:imsi>
+      </ns3:MOId>
+      <ns3:MOAttributes>
+        <amx:SetPrepaidMobile xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/" OrderId="20250813171343-689d1c27dfb59" imsi="706010488139612" msisdn="50372390790">
+          <amx:Usecase>WIFIACTIVATE</amx:Usecase>
+          <amx:msisdn>50372390790</amx:msisdn>
+          <amx:imsi>706010488139612</amx:imsi>
+        </amx:SetPrepaidMobile>
+      </ns3:MOAttributes>
+    </ns3:Set>
+  </S:Body>
+</S:Envelope>
+

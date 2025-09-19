@@ -1,0 +1,7 @@
+[2025-08-05 17:11:32.202] Inicio del envío
+País: El Salvador
+Endpoint: http://172.20.11.105:8080/CAI3G1.2/services/CAI3G1.2/async
+Usuario: EmaCmdSV
+Delay: 1000 ms
+Threads: 1
+

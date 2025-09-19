@@ -1,0 +1,273 @@
+[2025-08-07 10:40:39.902] Inicio del envío
+País: Guatemala
+Endpoint: http://172.20.11.73:8080/CAI3G1.2/services/CAI3G1.2/async
+Usuario: EmaCmdGT
+Delay: 5000 ms
+
+[2025-08-07 10:40:39.904] [0] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:add="http://www.w3.org/2005/08/addressing"
+                  xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/"
+                  xmlns:asy="http://schemas.ericsson.com/async/"
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">
+  <soapenv:Header>
+    <add:Security>
+      <add:UsernameToken>
+        <add:Username>EmaCmdGT</add:Username>
+        <add:Password>EmaCmdGT@1</add:Password>
+      </add:UsernameToken>
+    </add:Security>
+    <cai3:Context>50252132343</cai3:Context>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Set>
+      <cai3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/</cai3:MOType>
+      <cai3:MOId>
+        <cai3:OrderId>50252132343</cai3:OrderId>
+        <amx:msisdn>50252132343</amx:msisdn>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <amx:SetPrepaidMobile msisdn="50252132343">
+          <amx:Usecase>CREATE_FNR_3</amx:Usecase>
+          <amx:msisdn>50252132343</amx:msisdn>
+          <amx:WFC/>
+        </amx:SetPrepaidMobile>
+      </cai3:MOAttributes>
+    </cai3:Set>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[2025-08-07 10:40:40.070] [0] Envío exitoso - Duración: 0.16s
+
+----------------------------------------
+
+[2025-08-07 10:40:45.071] [1] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:add="http://www.w3.org/2005/08/addressing"
+                  xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/"
+                  xmlns:asy="http://schemas.ericsson.com/async/"
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">
+  <soapenv:Header>
+    <add:Security>
+      <add:UsernameToken>
+        <add:Username>EmaCmdGT</add:Username>
+        <add:Password>EmaCmdGT@1</add:Password>
+      </add:UsernameToken>
+    </add:Security>
+    <cai3:Context>50252132391</cai3:Context>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Set>
+      <cai3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/</cai3:MOType>
+      <cai3:MOId>
+        <cai3:OrderId>50252132391</cai3:OrderId>
+        <amx:msisdn>50252132391</amx:msisdn>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <amx:SetPrepaidMobile msisdn="50252132391">
+          <amx:Usecase>CREATE_FNR_3</amx:Usecase>
+          <amx:msisdn>50252132391</amx:msisdn>
+          <amx:WFC/>
+        </amx:SetPrepaidMobile>
+      </cai3:MOAttributes>
+    </cai3:Set>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[2025-08-07 10:40:45.134] [1] Envío exitoso - Duración: 0.06s
+
+----------------------------------------
+
+[2025-08-07 10:40:50.135] [2] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:add="http://www.w3.org/2005/08/addressing"
+                  xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/"
+                  xmlns:asy="http://schemas.ericsson.com/async/"
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">
+  <soapenv:Header>
+    <add:Security>
+      <add:UsernameToken>
+        <add:Username>EmaCmdGT</add:Username>
+        <add:Password>EmaCmdGT@1</add:Password>
+      </add:UsernameToken>
+    </add:Security>
+    <cai3:Context>50252132729</cai3:Context>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Set>
+      <cai3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/</cai3:MOType>
+      <cai3:MOId>
+        <cai3:OrderId>50252132729</cai3:OrderId>
+        <amx:msisdn>50252132729</amx:msisdn>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <amx:SetPrepaidMobile msisdn="50252132729">
+          <amx:Usecase>CREATE_FNR_3</amx:Usecase>
+          <amx:msisdn>50252132729</amx:msisdn>
+          <amx:WFC/>
+        </amx:SetPrepaidMobile>
+      </cai3:MOAttributes>
+    </cai3:Set>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[2025-08-07 10:40:50.459] [2] Envío exitoso - Duración: 0.32s
+
+----------------------------------------
+
+[2025-08-07 10:40:55.460] [3] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:add="http://www.w3.org/2005/08/addressing"
+                  xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/"
+                  xmlns:asy="http://schemas.ericsson.com/async/"
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">
+  <soapenv:Header>
+    <add:Security>
+      <add:UsernameToken>
+        <add:Username>EmaCmdGT</add:Username>
+        <add:Password>EmaCmdGT@1</add:Password>
+      </add:UsernameToken>
+    </add:Security>
+    <cai3:Context>50252132742</cai3:Context>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Set>
+      <cai3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/</cai3:MOType>
+      <cai3:MOId>
+        <cai3:OrderId>50252132742</cai3:OrderId>
+        <amx:msisdn>50252132742</amx:msisdn>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <amx:SetPrepaidMobile msisdn="50252132742">
+          <amx:Usecase>CREATE_FNR_3</amx:Usecase>
+          <amx:msisdn>50252132742</amx:msisdn>
+          <amx:WFC/>
+        </amx:SetPrepaidMobile>
+      </cai3:MOAttributes>
+    </cai3:Set>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[2025-08-07 10:40:55.511] [3] Envío exitoso - Duración: 0.05s
+
+----------------------------------------
+
+[2025-08-07 10:41:00.512] [4] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:add="http://www.w3.org/2005/08/addressing"
+                  xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/"
+                  xmlns:asy="http://schemas.ericsson.com/async/"
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">
+  <soapenv:Header>
+    <add:Security>
+      <add:UsernameToken>
+        <add:Username>EmaCmdGT</add:Username>
+        <add:Password>EmaCmdGT@1</add:Password>
+      </add:UsernameToken>
+    </add:Security>
+    <cai3:Context>50252132848</cai3:Context>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Set>
+      <cai3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/</cai3:MOType>
+      <cai3:MOId>
+        <cai3:OrderId>50252132848</cai3:OrderId>
+        <amx:msisdn>50252132848</amx:msisdn>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <amx:SetPrepaidMobile msisdn="50252132848">
+          <amx:Usecase>CREATE_FNR_3</amx:Usecase>
+          <amx:msisdn>50252132848</amx:msisdn>
+          <amx:WFC/>
+        </amx:SetPrepaidMobile>
+      </cai3:MOAttributes>
+    </cai3:Set>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[2025-08-07 10:41:00.565] [4] Envío exitoso - Duración: 0.05s
+
+----------------------------------------
+
+[2025-08-07 10:41:07.609] [5] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:add="http://www.w3.org/2005/08/addressing"
+                  xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/"
+                  xmlns:asy="http://schemas.ericsson.com/async/"
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">
+  <soapenv:Header>
+    <add:Security>
+      <add:UsernameToken>
+        <add:Username>EmaCmdGT</add:Username>
+        <add:Password>EmaCmdGT@1</add:Password>
+      </add:UsernameToken>
+    </add:Security>
+    <cai3:Context>50252134605</cai3:Context>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Set>
+      <cai3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/</cai3:MOType>
+      <cai3:MOId>
+        <cai3:OrderId>50252134605</cai3:OrderId>
+        <amx:msisdn>50252134605</amx:msisdn>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <amx:SetPrepaidMobile msisdn="50252134605">
+          <amx:Usecase>CREATE_FNR_3</amx:Usecase>
+          <amx:msisdn>50252134605</amx:msisdn>
+          <amx:WFC/>
+        </amx:SetPrepaidMobile>
+      </cai3:MOAttributes>
+    </cai3:Set>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[2025-08-07 10:41:08.533] [5] Envío exitoso - Duración: 0.92s
+
+----------------------------------------
+
+[2025-08-07 10:41:13.539] [6] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:add="http://www.w3.org/2005/08/addressing"
+                  xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/"
+                  xmlns:asy="http://schemas.ericsson.com/async/"
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">
+  <soapenv:Header>
+    <add:Security>
+      <add:UsernameToken>
+        <add:Username>EmaCmdGT</add:Username>
+        <add:Password>EmaCmdGT@1</add:Password>
+      </add:UsernameToken>
+    </add:Security>
+    <cai3:Context>50252135299</cai3:Context>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Set>
+      <cai3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidGT_HW_vUDB/</cai3:MOType>
+      <cai3:MOId>
+        <cai3:OrderId>50252135299</cai3:OrderId>
+        <amx:msisdn>50252135299</amx:msisdn>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <amx:SetPrepaidMobile msisdn="50252135299">
+          <amx:Usecase>CREATE_FNR_3</amx:Usecase>
+          <amx:msisdn>50252135299</amx:msisdn>
+          <amx:WFC/>
+        </amx:SetPrepaidMobile>
+      </cai3:MOAttributes>
+    </cai3:Set>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[2025-08-07 10:41:13.649] [6] Envío exitoso - Duración: 0.11s
+
+----------------------------------------
+
+[2025-08-07 10:41:18.659] Proceso detenido manualmente

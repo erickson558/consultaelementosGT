@@ -1,0 +1,101 @@
+[2025-07-29 10:07:03.101] Inicio del envío
+País: El Salvador
+Endpoint: http://172.20.11.105:8080/CAI3G1.2/services/CAI3G1.2/async
+Usuario: EmaCmdSV
+Delay: 5000 ms
+
+[2025-07-29 10:07:03.102] [0][Internet] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCAHFCInternet/"
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">
+  <soapenv:Header>
+    <soapenv:Security>
+      <soapenv:UsernameToken>
+        <soapenv:Username>EmaCmdSV</soapenv:Username>
+        <soapenv:Password>EmaCmdSV@1</soapenv:Password>
+      </soapenv:UsernameToken>
+    </soapenv:Security>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Delete>
+      <cai3:MOType>HFCInternet@http://schemas.ericsson.com/ma/CA/AMXCAHFCInternet/</cai3:MOType>
+      <cai3:MOId>
+        <amx:OrderId>2198426280</amx:OrderId>
+        <amx:Country>El Salvador</amx:Country>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <amx:DeleteHFCInternet Country="El Salvador" OrderId="2198426280">
+          <amx:serviceType>Internet</amx:serviceType>
+        </amx:DeleteHFCInternet>
+      </cai3:MOAttributes>
+    </cai3:Delete>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[2025-07-29 10:07:03.229] [0][Internet] Envío exitoso - Duración: 0.12s
+
+----------------------------------------
+
+[2025-07-29 10:07:08.229] [0][Voice] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCAHFCInternet/"
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">
+  <soapenv:Header>
+    <soapenv:Security>
+      <soapenv:UsernameToken>
+        <soapenv:Username>EmaCmdSV</soapenv:Username>
+        <soapenv:Password>EmaCmdSV@1</soapenv:Password>
+      </soapenv:UsernameToken>
+    </soapenv:Security>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Delete>
+      <cai3:MOType>HFCInternet@http://schemas.ericsson.com/ma/CA/AMXCAHFCInternet/</cai3:MOType>
+      <cai3:MOId>
+        <amx:OrderId>2198426280</amx:OrderId>
+        <amx:Country>El Salvador</amx:Country>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <amx:DeleteHFCInternet Country="El Salvador" OrderId="2198426280">
+          <amx:serviceType>Voice</amx:serviceType>
+        </amx:DeleteHFCInternet>
+      </cai3:MOAttributes>
+    </cai3:Delete>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[2025-07-29 10:07:08.297] [0][Voice] Envío exitoso - Duración: 0.07s
+
+----------------------------------------
+
+[2025-07-29 10:08:19.627] [1][Internet] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCAHFCInternet/"
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">
+  <soapenv:Header>
+    <soapenv:Security>
+      <soapenv:UsernameToken>
+        <soapenv:Username>EmaCmdSV</soapenv:Username>
+        <soapenv:Password>EmaCmdSV@1</soapenv:Password>
+      </soapenv:UsernameToken>
+    </soapenv:Security>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Delete>
+      <cai3:MOType>HFCInternet@http://schemas.ericsson.com/ma/CA/AMXCAHFCInternet/</cai3:MOType>
+      <cai3:MOId>
+        <amx:OrderId>2309311830</amx:OrderId>
+        <amx:Country>El Salvador</amx:Country>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <amx:DeleteHFCInternet Country="El Salvador" OrderId="2309311830">
+          <amx:serviceType>Internet</amx:serviceType>
+        </amx:DeleteHFCInternet>
+      </cai3:MOAttributes>
+    </cai3:Delete>
+  </soapenv:Body>
+</soapenv:Envelope>
+

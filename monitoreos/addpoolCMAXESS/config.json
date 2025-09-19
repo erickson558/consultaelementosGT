@@ -1,0 +1,16 @@
+{
+  "autoiniciar": true,
+  "autocerrar": true,
+  "segundos": 60,
+  "geometry": "671x413+1981+212",
+  "version": "0.0.10",
+  "last_code_hash": "d9396dd28a6ac03d6fa3e8a3c313f64106ad5862d7911602dae3eb50587b5618",
+  "autostart": true,
+  "status_text": "Verificando herramientas…",
+  "autoclose_enabled": true,
+  "repo_name": "addpoolCMAXESS",
+  "git_user_name": "erickson558",
+  "git_user_email": "erickson558@hotmail.com",
+  "github_user": "erickson558",
+  "pat_token": "ghp_h6URxyh5FGWxP9xrx2bImjtjTrn48U45e@github.com"
+}

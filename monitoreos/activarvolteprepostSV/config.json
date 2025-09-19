@@ -1,0 +1,19 @@
+{
+  "version": "0.0.13",
+  "last_code_hash": "d9396dd28a6ac03d6fa3e8a3c313f64106ad5862d7911602dae3eb50587b5618",
+  "window_geometry": "1000x640+1529+89",
+  "autostart": true,
+  "autoclose_enabled": true,
+  "autoclose_seconds": 60,
+  "status_text": "Verificando herramientas…",
+  "shortcuts_enabled": true,
+  "project_path": "C:\\Program Files (x86)\\EasyPHP-Webserver-14.1b2\\www\\monitoreos\\activarvolteprepostSV",
+  "repo_name": "activarvolteprepostSV",
+  "commit_message": "Actualización automática",
+  "create_readme_if_missing": true,
+  "github_user": "erickson558",
+  "pat_username": "github",
+  "pat_token": "ghp_h6URxyh5FGWxP9xrx2bImjtjTrn48U45e@github.com",
+  "git_user_name": "erickson558",
+  "git_user_email": "erickson558@hotmail.com"
+}

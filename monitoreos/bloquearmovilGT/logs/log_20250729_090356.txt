@@ -1,0 +1,42 @@
+[2025-07-29 09:03:56.444] Inicio del envío
+Endpoint: http://172.20.11.105:8080/CAI3G1.2/services/CAI3G1.2/async
+Usuario: EmaCmdSV
+Delay: 15000 ms
+
+[2025-07-29 09:03:56.445] [0] XML generado:
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" 
+                  xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/" 
+                  xmlns:dth="http://schemas.ericsson.com/ma/CA/DTHBatch/">
+  <soapenv:Header>
+    <soapenv:Security>
+      <soapenv:UsernameToken>
+        <soapenv:Username>EmaCmdSV</soapenv:Username>
+        <soapenv:Password>EmaCmdSV@1</soapenv:Password>
+      </soapenv:UsernameToken>
+    </soapenv:Security>
+  </soapenv:Header>
+  <soapenv:Body>
+    <cai3:Delete>
+      <cai3:MOType>DTH@http://schemas.ericsson.com/ma/CA/DTHBatch/</cai3:MOType>
+      <cai3:MOId>
+        <dth:OrderID>2284069215</dth:OrderID>
+      </cai3:MOId>
+      <cai3:MOAttributes>
+        <dth:DeleteDTH OrderID="2284069215">
+          <dth:Devices>
+            <dth:Device>
+              <dth:STU_number>2198426280</dth:STU_number>
+              <dth:SC_uniqueAddress>2284069215</dth:SC_uniqueAddress>
+            </dth:Device>
+          </dth:Devices>
+        </dth:DeleteDTH>
+      </cai3:MOAttributes>
+    </cai3:Delete>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[2025-07-29 09:03:56.538] [0] Envío exitoso - Duración: 0.09s
+
+----------------------------------------
+

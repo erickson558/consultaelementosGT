@@ -1,0 +1,112 @@
+[2025-09-16 21:40:19] === Lanzamiento de la aplicación ===
+[2025-09-16 21:40:19] Version bump por cambio de código: 0.0.2
+[2025-09-16 21:40:20] App iniciada v0.0.2
+[2025-09-16 21:40:26] Version bump por cambio de config (autostart=True): 0.0.2 -> 0.0.3
+[2025-09-16 21:40:26] Version bump por cambio de config (autoclose_enabled=True): 0.0.3 -> 0.0.4
+[2025-09-16 21:40:27] Version bump por cambio de config (repo_name=len21): 0.0.4 -> 0.0.5
+[2025-09-16 21:40:34] Iniciando pipeline en: C:\Program Files (x86)\EasyPHP-Webserver-14.1b2\www\monitoreos\activarvolteprepostSV (repo: activarvolteprepostSV)
+[2025-09-16 21:40:36] Usuario GitHub: erickson558
+[2025-09-16 21:40:36] Actualizando origin: https://github.com/erickson558/activarvolteprepostNI.git -> https://github.com/erickson558/activarvolteprepostSV.git
+[2025-09-16 21:40:37] fatal: Unable to create 'C:/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/.git/index.lock': File exists.
+[2025-09-16 21:40:37] 
+[2025-09-16 21:40:37] Another git process seems to be running in this repository, e.g.
+[2025-09-16 21:40:37] an editor opened by 'git commit'. Please make sure all processes
+[2025-09-16 21:40:37] are terminated then try again. If it still fails, a git process
+[2025-09-16 21:40:37] may have crashed in this repository earlier:
+[2025-09-16 21:40:37] remove the file manually to continue.
+[2025-09-16 21:40:37] No hay cambios para commitear.
+[2025-09-16 21:40:40] remote: Repository not found.
+[2025-09-16 21:40:40] fatal: repository 'https://github.com/erickson558/activarvolteprepostSV.git/' not found
+[2025-09-16 21:40:40] ERROR en push. Revisa remoto/credenciales.
+[2025-09-16 21:41:24] Aplicación cerrada por el usuario.
+[2025-09-16 22:02:15] === Lanzamiento de la aplicación ===
+[2025-09-16 22:02:15] Version bump por cambio de código: 0.0.6
+[2025-09-16 22:02:16] Iniciando pipeline en: C:\Program Files (x86)\EasyPHP-Webserver-14.1b2\www\monitoreos\activarvolteprepostSV (repo: activarvolteprepostSV)
+[2025-09-16 22:02:16] App iniciada v0.0.6
+[2025-09-16 22:02:22] Actualizando origin: https://github.com/erickson558/activarvolteprepostSV.git -> https://github.com//activarvolteprepostSV.git
+[2025-09-16 22:02:23] fatal: Unable to create 'C:/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/.git/index.lock': File exists.
+[2025-09-16 22:02:23] 
+[2025-09-16 22:02:23] Another git process seems to be running in this repository, e.g.
+[2025-09-16 22:02:23] an editor opened by 'git commit'. Please make sure all processes
+[2025-09-16 22:02:23] are terminated then try again. If it still fails, a git process
+[2025-09-16 22:02:23] may have crashed in this repository earlier:
+[2025-09-16 22:02:23] remove the file manually to continue.
+[2025-09-16 22:02:23] Se removió lock: C:/Program Files (x86)/EasyPHP-Webserver-14.1b2/www\.git\index.lock
+[2025-09-16 22:02:25] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250728_095554.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:25] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250728_104443.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250728_104456.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250728_104459.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250728_104552.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250728_104635.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250728_180717.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250729_095120.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250729_100703.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250729_100827.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250729_101031.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250729_101141.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250729_101233.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250729_101301.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250729_101318.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250801_162407.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250801_164225.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250801_165035.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250801_165541.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250801_165838.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250801_170049.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250801_170205.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250801_170514.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250801_171721.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250805_165306.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250805_171132.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250805_171208.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250805_172732.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250806_175920.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250813_160437.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250813_160549.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:26] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250813_161443.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:27] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250813_170029.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:27] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250813_170119.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:27] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250813_170153.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:27] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250813_170341.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:27] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250813_170449.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:27] warning: in the working copy of 'monitoreos/activarvolteprepostSV/logs/log_20250813_171338.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:02:28] Author identity unknown
+[2025-09-16 22:02:28] 
+[2025-09-16 22:02:28] *** Please tell me who you are.
+[2025-09-16 22:02:28] 
+[2025-09-16 22:02:28] Run
+[2025-09-16 22:02:28] 
+[2025-09-16 22:02:28]   git config --global user.email "you@example.com"
+[2025-09-16 22:02:28]   git config --global user.name "Your Name"
+[2025-09-16 22:02:28] 
+[2025-09-16 22:02:28] to set your account's default identity.
+[2025-09-16 22:02:28] Omit --global to set the identity only in this repository.
+[2025-09-16 22:02:28] 
+[2025-09-16 22:02:28] fatal: empty ident name (for <>) not allowed
+[2025-09-16 22:02:28] ERROR en commit.
+[2025-09-16 22:02:38] Version bump por cambio de config (github_user=len11): 0.0.6 -> 0.0.7
+[2025-09-16 22:02:39] Version bump por cambio de config (pat_username=len6): 0.0.7 -> 0.0.8
+[2025-09-16 22:02:39] Version bump por cambio de config (pat_token=len0): 0.0.8 -> 0.0.9
+[2025-09-16 22:03:04] Version bump por cambio de config (pat_token=len48): 0.0.9 -> 0.0.10
+[2025-09-16 22:03:04] Version bump por cambio de config (pat_token=len48): 0.0.10 -> 0.0.11
+[2025-09-16 22:03:06] Iniciando pipeline en: C:\Program Files (x86)\EasyPHP-Webserver-14.1b2\www\monitoreos\activarvolteprepostSV (repo: activarvolteprepostSV)
+[2025-09-16 22:03:09] Actualizando origin: https://github.com//activarvolteprepostSV.git -> https://github.com/erickson558/activarvolteprepostSV.git
+[2025-09-16 22:03:10] Creando repo remoto: activarvolteprepostSV (public)…
+[2025-09-16 22:03:13] https://github.com/erickson558/activarvolteprepostSV
+[2025-09-16 22:03:14] Author identity unknown
+[2025-09-16 22:03:14] 
+[2025-09-16 22:03:14] *** Please tell me who you are.
+[2025-09-16 22:03:14] 
+[2025-09-16 22:03:14] Run
+[2025-09-16 22:03:14] 
+[2025-09-16 22:03:14]   git config --global user.email "you@example.com"
+[2025-09-16 22:03:14]   git config --global user.name "Your Name"
+[2025-09-16 22:03:14] 
+[2025-09-16 22:03:14] to set your account's default identity.
+[2025-09-16 22:03:14] Omit --global to set the identity only in this repository.
+[2025-09-16 22:03:14] 
+[2025-09-16 22:03:14] fatal: empty ident name (for <>) not allowed
+[2025-09-16 22:03:14] ERROR en commit.
+[2025-09-16 22:03:25] Version bump por cambio de config (git_user_name=len11): 0.0.11 -> 0.0.12
+[2025-09-16 22:03:32] Version bump por cambio de config (git_user_email=len23): 0.0.12 -> 0.0.13
+[2025-09-16 22:03:32] Iniciando pipeline en: C:\Program Files (x86)\EasyPHP-Webserver-14.1b2\www\monitoreos\activarvolteprepostSV (repo: activarvolteprepostSV)

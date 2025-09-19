@@ -1,0 +1,42 @@
+[2025-08-13 17:04:49.931] Inicio del envío
+País: Nicaragua
+Endpoint: http://172.24.80.138:8080/CAI3G1.2/services/CAI3G1.2/async
+Usuario: EmaSiareNI
+Tipo de Servicio: Prepago
+Delay: 5000 ms
+
+[2025-08-13 17:04:49.932] [0] XML generado:
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Header>
+    <ns3:Context xmlns:ns2="http://www.w3.org/2005/08/addressing" xmlns:ns3="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns4="http://schemas.ericsson.com/async/">20250813170449783</ns3:Context>
+    <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+      <wsse:UsernameToken>
+        <wsse:Username>EmaSiareNI</wsse:Username>
+        <wsse:Password>EmaSiareNI@1</wsse:Password>
+      </wsse:UsernameToken>
+    </wsse:Security>
+  </S:Header>
+  <S:Body>
+    <ns3:Set xmlns:ns2="http://www.w3.org/2005/08/addressing" xmlns:ns3="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns4="http://schemas.ericsson.com/async/">
+      <ns3:MOType>PrepaidMobile@http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidNI/</ns3:MOType>
+      <ns3:MOId>
+        <amx:OrderId xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidNI/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">20250813170449-689d1a11e3986</amx:OrderId>
+        <amx:msisdn xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidNI/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">50557909369</amx:msisdn>
+        <amx:imsi xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidEL/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/">710210170202723</amx:imsi>
+      </ns3:MOId>
+      <ns3:MOAttributes>
+        <amx:SetPrepaidMobile xmlns:amx="http://schemas.ericsson.com/ma/CA/AMXCENAMMobilePrepaidNI/" xmlns:cai3="http://schemas.ericsson.com/cai3g1.2/" OrderId="20250813170449-689d1a11e3986" imsi="710210170202723" msisdn="50557909369">
+          <amx:Usecase>WIFIACTIVATE</amx:Usecase>
+          <amx:msisdn>50557909369</amx:msisdn>
+          <amx:imsi>710210170202723</amx:imsi>
+        </amx:SetPrepaidMobile>
+      </ns3:MOAttributes>
+    </ns3:Set>
+  </S:Body>
+</S:Envelope>
+
+[2025-08-13 17:04:50.138] [0] Envío exitoso - Duración: 0.2s
+
+----------------------------------------
+
+[2025-08-13 17:04:55.145] Proceso detenido manualmente

@@ -1,0 +1,3 @@
+# comparaSM
+
+Proyecto comparaSM.

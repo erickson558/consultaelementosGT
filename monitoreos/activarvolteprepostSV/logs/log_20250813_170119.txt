@@ -1,0 +1,67 @@
+[2025-08-13 17:01:19.576] Inicio del envío
+País: Nicaragua
+Endpoint: http://172.20.11.105:8080/CAI3G1.2/services/CAI3G1.2/async
+Usuario: EmaCmdSV
+Tipo de Servicio: Postpago
+Delay: 1000 ms
+
+[2025-08-13 17:01:19.577] [0] XML generado:
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Header>
+    <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+      <wsse:UsernameToken>
+        <wsse:Username>EmaCmdSV</wsse:Username>
+        <wsse:Password>EmaCmdSV@1</wsse:Password>
+      </wsse:UsernameToken>
+    </wsse:Security>
+    <Context xmlns="http://schemas.ericsson.com/cai3g1.2/">20250813170119155</Context>
+  </S:Header>
+  <S:Body>
+    <ns2:Set xmlns:ns2="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns3="http://www.w3.org/2005/08/addressing" xmlns:ns4="http://schemas.ericsson.com/ma/CA/AMXCAmovilDecisionEL/" xmlns:ns5="http://schemas.ericsson.com/async/">
+      <ns2:MOType>Subscriber@http://schemas.ericsson.com/ma/CA/AMXCAmovilDecisionEL/</ns2:MOType>
+      <ns2:MOId>
+        <ns4:msisdn>50582329166</ns4:msisdn>
+        <ns4:imsi>710210188691591</ns4:imsi>
+      </ns2:MOId>
+      <ns2:MOAttributes>
+        <ns4:SetSubscriber imsi="710210188691591" msisdn="50582329166">
+          <ns4:client_service_add>WV</ns4:client_service_add>
+          <ns4:client_service_info xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="xs:string"></ns4:client_service_info>
+        </ns4:SetSubscriber>
+      </ns2:MOAttributes>
+    </ns2:Set>
+  </S:Body>
+</S:Envelope>
+
+[2025-08-13 17:01:20.546] [0] Envío exitoso - Duración: 0.97s
+
+----------------------------------------
+
+[2025-08-13 17:01:39.025] [1] XML generado:
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Header>
+    <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+      <wsse:UsernameToken>
+        <wsse:Username>EmaCmdSV</wsse:Username>
+        <wsse:Password>EmaCmdSV@1</wsse:Password>
+      </wsse:UsernameToken>
+    </wsse:Security>
+    <Context xmlns="http://schemas.ericsson.com/cai3g1.2/">20250813170139244</Context>
+  </S:Header>
+  <S:Body>
+    <ns2:Set xmlns:ns2="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns3="http://www.w3.org/2005/08/addressing" xmlns:ns4="http://schemas.ericsson.com/ma/CA/AMXCAmovilDecisionEL/" xmlns:ns5="http://schemas.ericsson.com/async/">
+      <ns2:MOType>Subscriber@http://schemas.ericsson.com/ma/CA/AMXCAmovilDecisionEL/</ns2:MOType>
+      <ns2:MOId>
+        <ns4:msisdn>50582329172</ns4:msisdn>
+        <ns4:imsi>710210188691592</ns4:imsi>
+      </ns2:MOId>
+      <ns2:MOAttributes>
+        <ns4:SetSubscriber imsi="710210188691592" msisdn="50582329172">
+          <ns4:client_service_add>WV</ns4:client_service_add>
+          <ns4:client_service_info xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="xs:string"></ns4:client_service_info>
+        </ns4:SetSubscriber>
+      </ns2:MOAttributes>
+    </ns2:Set>
+  </S:Body>
+</S:Envelope>
+

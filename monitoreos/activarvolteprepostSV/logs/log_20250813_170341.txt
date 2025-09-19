@@ -1,0 +1,40 @@
+[2025-08-13 17:03:41.620] Inicio del envío
+País: Nicaragua
+Endpoint: http://172.20.11.105:8080/CAI3G1.2/services/CAI3G1.2/async
+Usuario: EmaSiareNI
+Tipo de Servicio: Postpago
+Delay: 5000 ms
+
+[2025-08-13 17:03:41.621] [0] XML generado:
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Header>
+    <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+      <wsse:UsernameToken>
+        <wsse:Username>EmaSiareNI</wsse:Username>
+        <wsse:Password>EmaSiareNI@1</wsse:Password>
+      </wsse:UsernameToken>
+    </wsse:Security>
+    <Context xmlns="http://schemas.ericsson.com/cai3g1.2/">20250813170341121</Context>
+  </S:Header>
+  <S:Body>
+    <ns2:Set xmlns:ns2="http://schemas.ericsson.com/cai3g1.2/" xmlns:ns3="http://www.w3.org/2005/08/addressing" xmlns:ns4="http://schemas.ericsson.com/ma/CA/AMXCAmovilDecisionEL/" xmlns:ns5="http://schemas.ericsson.com/async/">
+      <ns2:MOType>Subscriber@http://schemas.ericsson.com/ma/CA/AMXCAmovilDecisionEL/</ns2:MOType>
+      <ns2:MOId>
+        <ns4:msisdn>50582329166</ns4:msisdn>
+        <ns4:imsi>710210188691591</ns4:imsi>
+      </ns2:MOId>
+      <ns2:MOAttributes>
+        <ns4:SetSubscriber imsi="710210188691591" msisdn="50582329166">
+          <ns4:client_service_add>WV</ns4:client_service_add>
+          <ns4:client_service_info xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="xs:string"></ns4:client_service_info>
+        </ns4:SetSubscriber>
+      </ns2:MOAttributes>
+    </ns2:Set>
+  </S:Body>
+</S:Envelope>
+
+[2025-08-13 17:03:41.776] [0] Envío exitoso - Duración: 0.15s
+
+----------------------------------------
+
+[2025-08-13 17:03:46.777] Proceso detenido manualmente

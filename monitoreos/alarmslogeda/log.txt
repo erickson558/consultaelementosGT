@@ -1,0 +1,877 @@
+[2025-09-16 22:10:57] === Lanzamiento de la aplicación ===
+[2025-09-16 22:10:58] Version bump por cambio de código: 0.0.2
+[2025-09-16 22:10:58] App iniciada v0.0.2
+[2025-09-16 22:11:05] Version bump por cambio de config (pat_token=len48): 0.0.2 -> 0.0.3
+[2025-09-16 22:11:05] Version bump por cambio de config (pat_token=len48): 0.0.3 -> 0.0.4
+[2025-09-16 22:11:13] Version bump por cambio de config (repo_name=len12): 0.0.4 -> 0.0.5
+[2025-09-16 22:11:16] Iniciando pipeline en: C:\Program Files (x86)\EasyPHP-Webserver-14.1b2\www\monitoreos\alarmslogeda (repo: alarmslogeda)
+[2025-09-16 22:11:19] Actualizando origin: https://github.com/erickson558/addpoolCMAXESS.git -> https://github.com/erickson558/alarmslogeda.git
+[2025-09-16 22:11:21] Creando repo remoto: alarmslogeda (public)…
+[2025-09-16 22:11:24] https://github.com/erickson558/alarmslogeda
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/.gitattributes', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/.gitignore', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/.travis.yml', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Autoloader.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/APC.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/CacheBase.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/ICache.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Igbinary.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Memcache.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Memory.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Wincache.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorageFactory.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CalcEngine/CyclicReferenceStack.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CalcEngine/Logger.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Database.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/DateTime.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Engineering.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Exception.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/ExceptionHandler.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Financial.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/FormulaParser.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/FormulaToken.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Function.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Functions.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Logical.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/LookupRef.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/MathTrig.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Statistical.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/TextData.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Token/Stack.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/functionlist.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/AdvancedValueBinder.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/DataType.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/DataValidation.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/Hyperlink.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/IValueBinder.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Axis.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/DataSeries.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/DataSeriesValues.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Exception.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/GridLines.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Layout.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Legend.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/PlotArea.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Properties.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Renderer/jpgraph.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Title.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Comment.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/DocumentProperties.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/DocumentSecurity.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Exception.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/HashTable.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Helper/HTML.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/IComparable.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/IOFactory.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/NamedRange.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Abstract.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/CSV.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/DefaultReadFilter.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel2003XML.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel2007/Chart.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel2007/Theme.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color/BIFF5.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color/BIFF8.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color/BuiltIn.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/ErrorCode.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Escher.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/MD5.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/RC4.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:25] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Style/Border.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Style/FillPattern.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Exception.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Gnumeric.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/HTML.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/IReadFilter.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/IReader.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/OOCalc.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/SYLK.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/ReferenceHelper.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/RichText.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/RichText/ITextElement.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/RichText/Run.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/RichText/TextElement.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Settings.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/CodePage.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Date.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Drawing.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DgContainer.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Excel5.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/File.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Font.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/LUDecomposition.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/Matrix.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/QRDecomposition.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/utils/Error.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/utils/Maths.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLE.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLE/ChainedBlockStream.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/File.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLERead.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/PasswordHasher.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/String.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/TimeZone.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/XMLWriter.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/ZipArchive.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/ZipStreamWrapper.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/bestFitClass.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/exponentialBestFitClass.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/linearBestFitClass.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/powerBestFitClass.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/trendClass.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Alignment.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Border.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Borders.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Color.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Conditional.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:26] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Fill.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Font.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/NumberFormat.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Protection.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Supervisor.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter/Column.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter/Column/Rule.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/BaseDrawing.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/CellIterator.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Column.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/ColumnCellIterator.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/ColumnDimension.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/ColumnIterator.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Dimension.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Drawing.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Drawing/Shadow.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/HeaderFooter.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/MemoryDrawing.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/PageMargins.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/PageSetup.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Protection.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Row.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/RowCellIterator.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/RowDimension.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/RowIterator.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/SheetView.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/WorksheetIterator.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Abstract.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/CSV.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Chart.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Comments.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/ContentTypes.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/DocProps.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Drawing.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Rels.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/RelsRibbon.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/RelsVBA.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/StringTable.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Style.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Theme.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Workbook.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Worksheet.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/WriterPart.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/BIFFwriter.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Escher.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Font.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Workbook.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Worksheet.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Xf.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Exception.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/HTML.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/IWriter.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Cell/Comment.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Content.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Meta.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/MetaInf.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Mimetype.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Settings.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Styles.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Thumbnails.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/WriterPart.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/PDF.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/PDF/Core.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/PDF/DomPDF.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/PDF/mPDF.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/PDF/tcPDF.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:27] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/bg/config', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/DateTime/DATE.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/DateTime/DATEVALUE.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/DateTime/TIME.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/DateTime/TIMEVALUE.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader18.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader19.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/exampleWorkBookReader01.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/exampleWorkBookReader02.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/exampleWorkBookReader03.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/exampleWorkBookReader04.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/FunctionListByCategory.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:28] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/FunctionListByName.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/01-Introduction.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/02-01-Date-and-Time-Handling.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/02-General-Introduction.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/03-01-Cube-Functions.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/03-02-Database-Functions.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/03-03-Date-and-Time-Functions.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/01-Autofilters.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/02-Setting-an-Autofilter.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/03-Autofilter-Expressions.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/04-01-Autofilter-Expressions-Simple.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/04-02-Autofilter-Expressions-Dategroup.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/04-03-Autofilter-Expressions-Custom.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/04-04-Autofilter-Expressions-Dynamic.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/04-05-Autofilter-Expressions-Topten.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/05-Executing-Autofilters.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/06-Autofilter-Sorting.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Functions/FunctionListByCategory.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Functions/FunctionListByName.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/01-Getting-Started.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/02-Architecture.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/03-Creating-a-Spreadsheet.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/04-Configuration-Settings.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/05-Deleting-a-Workbook.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/06-Worksheets.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/07-Accessing-Cells.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/08-Recipes.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/09-Calculation-Engine.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/10-Reading-and-Writing.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/11-Appendices.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/01-File-Formats.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/02-Security.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/03-Loading-a-Spreadsheet.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/04-Loading-with-a-Reader.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/05-Reader-Options.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/06-Error-Handling.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:29] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/07-Helper-Methods.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/.gitignore', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/01pharSimple.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/01simple-download-ods.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/01simple-download-pdf.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/01simple-download-xls.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/01simple-download-xlsx.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/01simple.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/01simplePCLZip.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/02types-xls.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/02types.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/03formulas.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/04printing.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/05featuredemo.inc.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/05featuredemo.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/06largescale-with-cellcaching-sqlite.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/06largescale-with-cellcaching-sqlite3.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/06largescale-with-cellcaching.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/06largescale-xls.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/06largescale.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/07reader.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/07readerPCLZip.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/08conditionalformatting.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/08conditionalformatting2.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/09pagebreaks.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/10autofilter-selection-1.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/10autofilter-selection-2.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/10autofilter-selection-display.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/10autofilter.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/11documentsecurity-xls.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/11documentsecurity.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/12cellProtection.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/13calculation.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/13calculationCyclicFormulae.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/14excel5.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/15datavalidation-xls.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/15datavalidation.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/16csv.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/17html.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/18extendedcalculation.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/19namedrange.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/21pdf.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/22heavilyformatted.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/23sharedstyles.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/24readfilter.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/25inmemoryimage.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/26utf8.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/27imagesexcel5.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/28iterator.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/29advancedvaluebinder.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-area.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-bar-stacked.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-bar.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-column-2.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-column.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-composite.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-line.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-multiple-charts.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-pie.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-radar.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-scatter.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-stock.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/34chartupdate.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/35chartrender.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/36chartreadwriteHTML.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/36chartreadwritePDF.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/37page_layout_view.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/38cloneWorksheet.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/39dropdown.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/40duplicateStyle.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/41password.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/42richText.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/43mergeWorkbooks.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:30] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/44worksheetInfo.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/OOCalcReaderPCLZip.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/Africa.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/Asia.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/Europe.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/North America.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/Oceania.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/South America.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/Examples/runall.php', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/changelog.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/composer.json', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/install.txt', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:31] warning: in the working copy of 'monitoreos/alarmslogeda/PHPExcel/license.md', LF will be replaced by CRLF the next time Git touches it
+[2025-09-16 22:11:33] [main bec1538] Actualización automática
+[2025-09-16 22:11:33]  499 files changed, 138192 insertions(+)
+[2025-09-16 22:11:33]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/.gitattributes
+[2025-09-16 22:11:33]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/.gitignore
+[2025-09-16 22:11:33]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/.travis.yml
+[2025-09-16 22:11:33]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel.php
+[2025-09-16 22:11:33]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Autoloader.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/APC.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/CacheBase.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/ICache.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Igbinary.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Memcache.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Memory.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Wincache.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CachedObjectStorageFactory.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CalcEngine/CyclicReferenceStack.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/CalcEngine/Logger.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Database.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/DateTime.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Engineering.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Exception.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/ExceptionHandler.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Financial.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/FormulaParser.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/FormulaToken.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Function.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Functions.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Logical.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/LookupRef.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/MathTrig.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Statistical.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/TextData.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/Token/Stack.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Calculation/functionlist.txt
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/AdvancedValueBinder.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/DataType.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/DataValidation.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/Hyperlink.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Cell/IValueBinder.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Axis.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/DataSeries.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/DataSeriesValues.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Exception.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/GridLines.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Layout.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Legend.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/PlotArea.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Properties.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Renderer/jpgraph.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Chart/Title.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Comment.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/DocumentProperties.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/DocumentSecurity.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Exception.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/HashTable.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Helper/HTML.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/IComparable.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/IOFactory.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/NamedRange.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Abstract.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/CSV.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/DefaultReadFilter.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel2003XML.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel2007/Chart.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel2007/Theme.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color/BIFF5.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color/BIFF8.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color/BuiltIn.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/ErrorCode.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Escher.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/MD5.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/RC4.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Style/Border.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Excel5/Style/FillPattern.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Exception.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/Gnumeric.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/HTML.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/IReadFilter.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/IReader.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/OOCalc.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Reader/SYLK.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/ReferenceHelper.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/RichText.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/RichText/ITextElement.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/RichText/Run.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/RichText/TextElement.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Settings.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/CodePage.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Date.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Drawing.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DgContainer.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Excel5.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/File.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/Font.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/LUDecomposition.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/Matrix.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/QRDecomposition.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/utils/Error.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/JAMA/utils/Maths.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLE.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLE/ChainedBlockStream.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/File.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/OLERead.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/PCLZip/gnu-lgpl.txt
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/PCLZip/readme.txt
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/PasswordHasher.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/String.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/TimeZone.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/XMLWriter.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/ZipArchive.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/ZipStreamWrapper.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/bestFitClass.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/exponentialBestFitClass.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/linearBestFitClass.php
+[2025-09-16 22:11:34]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/powerBestFitClass.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Shared/trend/trendClass.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Alignment.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Border.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Borders.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Color.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Conditional.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Fill.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Font.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/NumberFormat.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Protection.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Style/Supervisor.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter/Column.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter/Column/Rule.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/BaseDrawing.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/CellIterator.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Column.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/ColumnCellIterator.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/ColumnDimension.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/ColumnIterator.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Dimension.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Drawing.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Drawing/Shadow.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/HeaderFooter.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/MemoryDrawing.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/PageMargins.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/PageSetup.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Protection.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/Row.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/RowCellIterator.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/RowDimension.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/RowIterator.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Worksheet/SheetView.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/WorksheetIterator.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Abstract.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/CSV.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Chart.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Comments.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/ContentTypes.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/DocProps.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Drawing.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Rels.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/RelsRibbon.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/RelsVBA.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/StringTable.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Style.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Theme.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Workbook.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Worksheet.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel2007/WriterPart.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/BIFFwriter.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Escher.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Font.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Workbook.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Worksheet.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Excel5/Xf.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/Exception.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/HTML.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/IWriter.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Cell/Comment.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Content.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Meta.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/MetaInf.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Mimetype.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Settings.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Styles.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Thumbnails.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/WriterPart.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/PDF.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/PDF/Core.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/PDF/DomPDF.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/PDF/mPDF.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/Writer/PDF/tcPDF.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/bg/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/cs/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/cs/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/da/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/da/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/de/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/de/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/en/uk/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/es/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/es/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/fi/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/fi/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/fr/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/fr/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/hu/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/hu/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/it/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/it/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/nl/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/nl/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/no/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/no/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/pl/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/pl/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/pt/br/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/pt/br/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/pt/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/pt/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/ru/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/ru/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/sv/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/sv/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/tr/config
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Classes/PHPExcel/locale/tr/functions
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/Database/DAVERAGE.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/Database/DCOUNT.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/Database/DGET.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/Database/DMAX.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/Database/DMIN.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/Database/DPRODUCT.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/Database/DSTDEV.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/Database/DSTDEVP.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/Database/DVAR.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/Database/DVARP.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/DateTime/DATE.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/DateTime/DATEVALUE.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/DateTime/TIME.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/DateTime/TIMEVALUE.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Calculations/index.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader01.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader02.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader03.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader04.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader05.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader06.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader07.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader08.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader09.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader10.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader11.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader12.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader13.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader14.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader15.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader16.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader17.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader18.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/exampleReader19.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/sampleData/example1.tsv
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/sampleData/example1.xls
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reader/sampleData/example2.xls
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/exampleWorkBookReader01.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/exampleWorkBookReader02.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/exampleWorkBookReader03.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/exampleWorkBookReader04.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/sampleData/example1.xls
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/sampleData/example1.xlsx
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/Reading WorkBook Data/sampleData/example2.xls
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Examples/index.php
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/FunctionListByCategory.txt
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/FunctionListByName.txt
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/Functionality Cross-Reference.xls
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/PHPExcel AutoFilter Reference developer documentation.doc
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/PHPExcel Function Reference developer documentation.doc
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/PHPExcel User Documentation - Reading Spreadsheet Files.doc
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/PHPExcel developer documentation.doc
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Architecture.cd
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Architecture.png
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/ClassDiagrams.csproj
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/ClassDiagrams.csproj.user
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/ClassDiagrams.sln
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Classes/IReader.cs
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Classes/IWriter.cs
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Classes/PHPExcel.cs
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Classes/PHPExcel_IOFactory.cs
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Reader_Excel2007.cs
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Reader_Excel5.cs
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Reader_Serialized.cs
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Writer_Excel2007.cs
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Writer_Serialized.cs
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Classes/Worksheet.cs
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Exports/Architecture.png
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/Exports/ReaderWriter.png
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/ReaderWriter.cd
+[2025-09-16 22:11:35]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/assets/ClassDiagrams/ReaderWriter.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/01-Introduction.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/02-01-Date-and-Time-Handling.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/02-General-Introduction.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/03-01-Cube-Functions.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/03-02-Database-Functions.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/CalculationEngine/FunctionReference/03-03-Date-and-Time-Functions.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/01-Autofilters.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/02-Setting-an-Autofilter.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/03-Autofilter-Expressions.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/04-01-Autofilter-Expressions-Simple.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/04-02-Autofilter-Expressions-Dategroup.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/04-03-Autofilter-Expressions-Custom.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/04-04-Autofilter-Expressions-Dynamic.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/04-05-Autofilter-Expressions-Topten.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/05-Executing-Autofilters.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/06-Autofilter-Sorting.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/01-01-autofilter.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/01-02-autofilter.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/01-03-filter-icon-1.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/01-03-filter-icon-2.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/01-04-autofilter.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/04-01-simple-autofilter.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/04-02-dategroup-autofilter.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/04-03-custom-autofilter-1.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/04-03-custom-autofilter-2.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/04-04-dynamic-autofilter.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/04-05-topten-autofilter-1.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Features/Autofilters/images/04-05-topten-autofilter-2.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Functions/FunctionListByCategory.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Functions/FunctionListByName.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/01-Getting-Started.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/02-Architecture.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/03-Creating-a-Spreadsheet.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/04-Configuration-Settings.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/05-Deleting-a-Workbook.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/06-Worksheets.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/07-Accessing-Cells.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/08-Recipes.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/09-Calculation-Engine.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/10-Reading-and-Writing.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/11-Appendices.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/01-schematic.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/02-readers-writers.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/07-simple-example-1.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/07-simple-example-2.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/07-simple-example-3.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/07-simple-example-4.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/08-cell-comment.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/08-column-width.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/08-page-setup-margins.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/08-page-setup-scaling-options.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/08-styling-border-options.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/09-command-line-calculation.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/09-formula-in-cell-1.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/Overview/images/09-formula-in-cell-2.png
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/01-File-Formats.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/02-Security.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/03-Loading-a-Spreadsheet.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/04-Loading-with-a-Reader.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/05-Reader-Options.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/06-Error-Handling.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Documentation/markdown/ReadingSpreadsheetFiles/07-Helper-Methods.md
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/.gitignore
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/01pharSimple.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/01simple-download-ods.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/01simple-download-pdf.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/01simple-download-xls.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/01simple-download-xlsx.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/01simple.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/01simplePCLZip.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/02types-xls.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/02types.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/03formulas.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/04printing.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/05featuredemo.inc.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/05featuredemo.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/06largescale-with-cellcaching-sqlite.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/06largescale-with-cellcaching-sqlite3.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/06largescale-with-cellcaching.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/06largescale-xls.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/06largescale.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/07reader.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/07readerPCLZip.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/08conditionalformatting.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/08conditionalformatting2.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/09pagebreaks.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/10autofilter-selection-1.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/10autofilter-selection-2.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/10autofilter-selection-display.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/10autofilter.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/11documentsecurity-xls.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/11documentsecurity.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/12cellProtection.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/13calculation.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/13calculationCyclicFormulae.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/14excel5.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/15datavalidation-xls.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/15datavalidation.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/16csv.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/17html.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/18extendedcalculation.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/19namedrange.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/20readexcel5.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/21pdf.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/22heavilyformatted.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/23sharedstyles.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/24readfilter.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/25inmemoryimage.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/26utf8.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/27imagesexcel5.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/28iterator.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/29advancedvaluebinder.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/30template.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/31docproperties_write-xls.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/31docproperties_write.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/32chartreadwrite.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-area.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-bar-stacked.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-bar.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-column-2.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-column.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-composite.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-line.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-multiple-charts.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-pie.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-radar.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-scatter.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/33chartcreate-stock.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/34chartupdate.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/35chartrender.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/36chartreadwriteHTML.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/36chartreadwritePDF.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/37page_layout_view.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/38cloneWorksheet.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/39dropdown.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/40duplicateStyle.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/41password.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/42richText.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/43mergeWorkbooks.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/44worksheetInfo.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/Excel2003XMLReader.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/Excel2003XMLTest.xml
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/GnumericReader.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/GnumericTest.gnumeric
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/OOCalcReader.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/OOCalcReaderPCLZip.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/OOCalcTest.ods
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/Quadratic.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/Quadratic2.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/SylkReader.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/SylkTest.slk
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/XMLReader.php
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/XMLTest.xml
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/Africa.txt
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/Asia.txt
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/Europe.txt
+[2025-09-16 22:11:36]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/North America.txt
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/Oceania.txt
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/data/continents/South America.txt
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/images/paid.png
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/images/phpexcel_logo.gif
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/Examples/runall.php
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/changelog.txt
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/composer.json
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/install.txt
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/PHPExcel/license.md
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/alarmloganalizer.php
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/autogit.exe
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/config.json
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/log.txt
+[2025-09-16 22:11:37]  create mode 100644 monitoreos/alarmslogeda/resultados_20250608_2154.xlsx
+[2025-09-16 22:11:46] branch 'main' set up to track 'origin/main'.
+[2025-09-16 22:11:46] To https://github.com/erickson558/alarmslogeda.git
+[2025-09-16 22:11:46]  * [new branch]      main -> main
+[2025-09-16 22:11:46] README.md creado.
+[2025-09-16 22:11:47] [main 76ae126] Add README
+[2025-09-16 22:11:47]  1 file changed, 3 insertions(+)
+[2025-09-16 22:11:47]  create mode 100644 monitoreos/alarmslogeda/README.md
+[2025-09-16 22:11:51] To https://github.com/erickson558/alarmslogeda.git
+[2025-09-16 22:11:51]    bec1538..76ae126  main -> main
+[2025-09-16 22:12:01] Version bump por cambio de config (autostart=True): 0.0.5 -> 0.0.6
+[2025-09-16 22:12:02] Version bump por cambio de config (autoclose_enabled=True): 0.0.6 -> 0.0.7
+[2025-09-16 22:12:03] Iniciando pipeline en: C:\Program Files (x86)\EasyPHP-Webserver-14.1b2\www\monitoreos\alarmslogeda (repo: alarmslogeda)
